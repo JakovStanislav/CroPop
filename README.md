@@ -11,4 +11,4 @@ The Croatian Population Map is a web-based project that visualizes the populatio
 + **User-Friendly Interface:** The web page offers a user-friendly experience, allowing users to navigate and interact with the map effortlessly.
 
 ## Demo
-For a live demonstration of the Croatian Population Map, visit [CroPop](https://jakovstanislav.github.io/CroPop/)
+For a live demonstration of the Croatian Population Map, visit [CroPop](https://jakovstanislav.github.io/CroPop/).
